@@ -6,5 +6,5 @@ sequenceDiagram
     activate server
     server-->>browser:REDIRECT https://studies.cs.helsinki.fi/exampleapp/notes
     deactivate server
-
+    Note se repite la secuencia puesta de ejemplo
 ```
